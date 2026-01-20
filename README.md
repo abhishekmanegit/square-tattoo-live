@@ -4,7 +4,7 @@ A modern, responsive tattoo studio website built with a focus on clean design, p
 
 Live Demo
 
-(Add deployment link here)
+(https://www.squaretattoo.com/)
 
 Project Overview
 
@@ -13,7 +13,7 @@ This website is designed for a tattoo studio to present its brand, artwork, and 
 Tech Stack
 
 React
-
+git 
 TypeScript
 
 Vite
